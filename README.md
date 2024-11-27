@@ -7,16 +7,16 @@ A modern, responsive **ReactJS** web application designed for car rentals and sa
 ## 🖼️ Screenshots
 
 ### **Home Page**
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/carhome.png)
 
 ### **Product Page**
-![Product Page](screenshots/product-page.png)
+![Product Page](screenshots/cardet.png)
 
 ### **Payment Page**
-![Payment Page](screenshots/payment-page.png)
+![Payment Page](screenshots/paydet.png)
 
 ### **Payment Success Page**
-![Payment Success Page](screenshots/payment-successful-page.png)
+![Payment Success Page](screenshots/paysucc.png)
 
 ---
 
